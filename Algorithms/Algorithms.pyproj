@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>243ce32b-203b-4384-8363-677e7beefe0b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>longsubstring.py</StartupFile>
+    <StartupFile>max-subarray.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
